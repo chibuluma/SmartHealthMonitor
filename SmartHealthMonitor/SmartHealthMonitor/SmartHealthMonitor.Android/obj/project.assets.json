@@ -784,7 +784,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "SmartHealthMonitor/1.0.0": {
+      "SmartHealthMonitor.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -792,10 +792,10 @@
           "Xamarin.Forms": "4.8.0.1451"
         },
         "compile": {
-          "bin/placeholder/SmartHealthMonitor.dll": {}
+          "bin/placeholder/SmartHealthMonitor.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SmartHealthMonitor.dll": {}
+          "bin/placeholder/SmartHealthMonitor.Core.dll": {}
         }
       }
     }
@@ -1919,15 +1919,15 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "SmartHealthMonitor/1.0.0": {
+    "SmartHealthMonitor.Core/1.0.0": {
       "type": "project",
-      "path": "../SmartHealthMonitor/SmartHealthMonitor.csproj",
-      "msbuildProject": "../SmartHealthMonitor/SmartHealthMonitor.csproj"
+      "path": "../SmartHealthMonitor/SmartHealthMonitor.Core.csproj",
+      "msbuildProject": "../SmartHealthMonitor/SmartHealthMonitor.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v9.0": [
-      "SmartHealthMonitor >= 1.0.0",
+      "SmartHealthMonitor.Core >= 1.0.0",
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.8.0.1451"
     ]
@@ -1964,8 +1964,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.csproj": {
-              "projectPath": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.csproj"
+            "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.Core.csproj": {
+              "projectPath": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.Core.csproj"
             }
           }
         }

@@ -637,9 +637,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.csproj",
-      "projectName": "SmartHealthMonitor",
-      "projectPath": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.csproj",
+      "projectUniqueName": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.Core.csproj",
+      "projectName": "SmartHealthMonitor.Core",
+      "projectPath": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.Core.csproj",
       "packagesPath": "C:\\Users\\Mathews\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\obj\\",
       "projectStyle": "PackageReference",

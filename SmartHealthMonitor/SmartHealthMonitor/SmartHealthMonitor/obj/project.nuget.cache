@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "77+EtfwCFaQdr8LWPoAu3sqmaC+PlEJ77vXTeOTcNQ13+aDK1drHcSV5uWzS44wtS2/sluzwbipJE28XauivCw==",
+  "dgSpecHash": "Ldr6aoM1X0EGFp0NSayzRW6bDBDhlN8r8LBmXIXOZCGfBdTI2UmxKt3M02z+LxUcIJV4E8ve0pNfsRS5ePaN7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.csproj",
+  "projectFilePath": "C:\\Users\\Mathews\\Documents\\GitHub\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor\\SmartHealthMonitor.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathews\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Mathews\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
