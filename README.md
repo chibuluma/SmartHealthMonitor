@@ -1,1 +1,1 @@
-# smartHealthMonitor
+# SmartHealthMonitor
