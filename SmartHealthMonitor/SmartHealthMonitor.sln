@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHealthMonitor.Android"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHealthMonitor.iOS", "SmartHealthMonitor\SmartHealthMonitor.iOS\SmartHealthMonitor.iOS.csproj", "{924424EB-89F1-4393-B7AC-6AFA19F9A828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHealthMonitor", "SmartHealthMonitor\SmartHealthMonitor\SmartHealthMonitor.csproj", "{12137F2A-EF2D-4C9F-9B9A-0294201AE791}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHealthMonitor.Core", "SmartHealthMonitor\SmartHealthMonitor\SmartHealthMonitor.Core.csproj", "{12137F2A-EF2D-4C9F-9B9A-0294201AE791}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{1A7EEED5-3F7D-4E73-87E4-7580B6F8DD67}"
 EndProject

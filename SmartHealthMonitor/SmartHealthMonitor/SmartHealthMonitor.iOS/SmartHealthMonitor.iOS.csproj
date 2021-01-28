@@ -128,9 +128,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\SmartHealthMonitor\SmartHealthMonitor.csproj">
-      <Project>{101BF0A0-0455-423A-A886-3468B1C8F51B}</Project>
-      <Name>SmartHealthMonitor</Name>
+    <ProjectReference Include="..\SmartHealthMonitor\SmartHealthMonitor.Core.csproj">
+      <Project>{12137F2A-EF2D-4C9F-9B9A-0294201AE791}</Project>
+      <Name>SmartHealthMonitor.Core</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

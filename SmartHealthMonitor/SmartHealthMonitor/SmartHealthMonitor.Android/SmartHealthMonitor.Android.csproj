@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -89,10 +89,10 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SmartHealthMonitor\SmartHealthMonitor.csproj">
-      <Project>{101BF0A0-0455-423A-A886-3468B1C8F51B}</Project>
-      <Name>SmartHealthMonitor</Name>
+    <ProjectReference Include="..\SmartHealthMonitor\SmartHealthMonitor.Core.csproj">
+      <Project>{12137F2A-EF2D-4C9F-9B9A-0294201AE791}</Project>
+      <Name>SmartHealthMonitor.Core</Name>
     </ProjectReference>
   </ItemGroup>
- <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
